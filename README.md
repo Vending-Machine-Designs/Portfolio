@@ -27,9 +27,9 @@ We are a team of expert economic system designers offering end-to-end token desi
 | [NFT Perp](https://nftperp.xyz/)  | Economic Assessment | NFT, Perpetuals, AMM |
 | [Velodrome](https://www.velodrome.finance/) | Protocol Optimisations | AMM | 
 | [Aerodrome](https://www.velodrome.finance/) | Protocol Optimisations | AMM |
-| [Arch](https://www.arch.network/) | Token Design & Validation      | L2                  |
+| [Arch](https://www.arch.network/) | Token Design and Validation      | L2                  |
 | [Adrena](https://www.adrena.xyz/) | Token Design Validation        | DEX                 |
-| [Marginal](https://marginal.network/) | Token Design & Validation      | DEX                 |
+| [Marginal](https://marginal.network/) | Token Design and Validation      | DEX                 |
 | [Liquidium](https://liquidium.fi/) | Bootstrapping Campaign         | Lending             |
 | [Everclear](https://www.everclear.org/) | Token Design and Validation    | Clearing Layer      |
 | [Fuel](https://fuel.network/) | Token Design and Validation      | L2                  |
