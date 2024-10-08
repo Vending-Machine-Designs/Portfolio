@@ -22,7 +22,7 @@ We are a team of expert economic system designers offering end-to-end token desi
 <br>
 
 | Protocol | Outputs | Type |
-| ---------| ---- | ------ | ---- | -------------------- |
+| ---------| ------ | ---- |
 | [Swell Network](https://www.swellnetwork.io/)  | Token Design and Bootstrapping Campaign | Liquid Staking |
 | [NFT Perp](https://nftperp.xyz/)  | Economic Assessment | NFT, Perpetuals, AMM |
 | [Velodrome](https://www.velodrome.finance/) | Protocol Optimisations | AMM | 
