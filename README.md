@@ -21,12 +21,12 @@ We are a team of expert economic system designers offering end-to-end token desi
 ## Engagements
 <br>
 
-| Protocol | Date | Outputs | Type | Researchers Involved |
+| Protocol | Outputs | Type |
 | ---------| ---- | ------ | ---- | -------------------- |
-| [Swell Network](https://www.swellnetwork.io/) | March 2023 | Token Design and Bootstrapping Campaign | Liquid Staking | [Jack](https://twitter.com/jack_mgn), [Jean-Luc](https://twitter.com/JeanLuc_VM) |
-| [NFT Perp](https://nftperp.xyz/) | July 2023 | Economic Assessment | NFT, Perpetuals, AMM | [Jack](https://twitter.com/jack_mgn), [Jean-Luc](https://twitter.com/JeanLuc_VM), Lachlan |
-| [Velodrome](https://www.velodrome.finance/) | October 2023 | Protocol Optimisations | AMM | [Jack](https://twitter.com/jack_mgn), [Jean-Luc](https://twitter.com/JeanLuc_VM), Lachlan, Woo|
-| [Aerodrome](https://www.velodrome.finance/) | November 2023 | Protocol Optimisations | AMM | [Jack](https://twitter.com/jack_mgn), [Jean-Luc](https://twitter.com/JeanLuc_VM), Lachlan, Woo |
+| [Swell Network](https://www.swellnetwork.io/)  | Token Design and Bootstrapping Campaign | Liquid Staking |
+| [NFT Perp](https://nftperp.xyz/)  | Economic Assessment | NFT, Perpetuals, AMM |
+| [Velodrome](https://www.velodrome.finance/) | Protocol Optimisations | AMM | 
+| [Aerodrome](https://www.velodrome.finance/) | Protocol Optimisations | AMM |
 <br>
 <br>
 <br>
